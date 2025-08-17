@@ -1,3 +1,5 @@
+# Implemented an end-to-end ML workflow by training a model on open-source CSV data, building a FastAPI service for model inference, containerizing the application with Docker, and deploying it on a Kubernetes cluster using Kind.
+
 My First MLOps project.
 
 Key Points:
